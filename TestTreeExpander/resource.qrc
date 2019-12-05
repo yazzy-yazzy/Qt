@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file alias="clock">resource/icon/accessories-clock-3.png</file>
+        <file alias="arrow-down">resource/icon/arrow-down-double-2.png</file>
+        <file alias="arrow-up">resource/icon/arrow-up-double-2.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file alias="network-error">resource/icon/network-error.png</file>
+        <file alias="network-idle">resource/icon/network-idle.png</file>
+        <file alias="network-offline">resource/icon/network-offline.png</file>
+        <file alias="network-active">resource/icon/network-transmit.png</file>
+        <file alias="security-high">resource/icon/security-high-2.png</file>
+        <file alias="serucity-low">resource/icon/security-low-2.png</file>
+        <file alias="security-midium">resource/icon/security-medium-2.png</file>
+    </qresource>
+</RCC>
